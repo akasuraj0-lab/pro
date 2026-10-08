@@ -1,0 +1,42 @@
+| Website                 | Work                                |
+| ----------------------- | ----------------------------------- |
+| **ChatGPT / OpenAI**    | AI, study help, coding, projects    |
+| **Claude**              | AI assistant, writing/research      |
+| **Gemini**              | Google AI, study/research           |
+| **WhatsApp**            | Communication                       |
+| **Gmail / Google**      | Email, Google account/sign-in       |
+| **Google Drive**        | Files/storage                       |
+| **Docs**                | Documents                           |
+| **Sheets**              | Spreadsheets                        |
+| **Slides**              | Presentations                       |
+| **Forms**               | Online forms                        |
+| **Outlook / Microsoft** | Email + Microsoft account           |
+| **Teams**               | Online classes/meetings             |
+| **Gyantantra**          | Education/learning                  |
+| **Literacy India**      | Education/social learning           |
+| **Code.org**            | Programming/computer science        |
+| **Wikipedia**           | General knowledge/research          |
+| **Typing.com**          | Typing practice                     |
+| **10FastFingers**       | Typing-speed practice               |
+| **Unsplash**            | Free images                         |
+| **Pexels**              | Free photos/videos                  |
+| **Pixabay**             | Free images/media                   |
+| **Wikimedia Commons**   | Free educational media              |
+| **Canva**               | Posters, presentations, designs     |
+| **GitHub**              | Coding/projects/open-source         |
+| **GitLab**              | Code + project management           |
+| **Stack Overflow**      | Programming questions/solutions     |
+| **freeCodeCamp**        | Free programming courses            |
+| **MDN**                 | Web-development documentation       |
+| **CS50 Harvard**        | Computer science/programming course |
+| **MIT OCW**             | MIT free courses                    |
+| **The Odin Project**    | Web-development learning            |
+| **GeeksforGeeks**       | Programming/DSA/CS                  |
+| **W3Schools**           | Web/programming tutorials           |
+| **Cisco NetAcad**       | Networking + cybersecurity courses  |
+| **Microsoft Learn**     | Microsoft/Cloud/IT learning         |
+| **Kaggle**              | Data science + AI/ML projects       |
+| **Hugging Face**        | AI/ML models and datasets           |
+| **PyPI**                | Python packages                     |
+| **npm**                 | JavaScript packages                 |
+| **COPA Guide**          | Education/career-related resources  |
